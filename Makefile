@@ -1,6 +1,5 @@
 install: #installs requirements
-	pip install --upgrade pip &&\
-	pip install -r requirements.txt
+	pip install --upgrade pip && pip install -r requirements.txt
 #ensures pip works?
 
 format: #formats files
