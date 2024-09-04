@@ -8,8 +8,6 @@ format: #formats files
 lint: #checks that python files are 
 	pylint --ignore-patterns=test_.*?py *.py
 
-
-
 test:
 	python -m pytest -cov=main test_main.py
 
