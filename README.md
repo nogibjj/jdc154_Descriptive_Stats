@@ -16,3 +16,14 @@ hello.yml file which can be edited based on needs. For CI/CD to automate the Dev
 
 ## devcontainer
 Dockerfile and devcontainer to detail virtual machine / environment for project. Update and edit based on project needs.
+
+## Preparation
+1. Open codespaces 
+2. Load repo to code spaces
+2. Wait for installation of all requirements in requirements.txt
+
+## Check format and test errors
+1. Format code `make format`
+2. Lint code `make lint`
+3. Test code `make test`
+(alternatively, do all with `make all`)
