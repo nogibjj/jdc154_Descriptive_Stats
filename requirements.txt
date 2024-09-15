@@ -6,5 +6,5 @@ black==22.3.0 #formatter
 
 #data and visualizations
 matplotlib 
-pandas  == 2.2.2
+pandas
 
