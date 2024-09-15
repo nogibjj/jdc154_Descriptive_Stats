@@ -1,6 +1,10 @@
-[![Install](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/hello.yml)
 
 [![Lint](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/lint.yml)
+
+[![Format](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/format.yml)
+
+[![Test](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/jdc154_Descriptive_Stats/actions/workflows/test.yml)
 
 # Netflix Movie and TV Shows Project Overview
 
