@@ -1,5 +1,66 @@
 # Netflix Movie and TV Shows Project Overview
 
+## About the Project
+The purpose of this project is to generate descriptive statistics and look into trends of movie and TV show releases on Netflix over the years. 
+
+### Summary Statistics:
+<div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>release_year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>count</th>
+      <td>8807.000000</td>
+    </tr>
+    <tr>
+      <th>mean</th>
+      <td>2014.180198</td>
+    </tr>
+    <tr>
+      <th>std</th>
+      <td>8.819312</td>
+    </tr>
+    <tr>
+      <th>min</th>
+      <td>1925.000000</td>
+    </tr>
+    <tr>
+      <th>25%</th>
+      <td>2013.000000</td>
+    </tr>
+    <tr>
+      <th>50%</th>
+      <td>2017.000000</td>
+    </tr>
+    <tr>
+      <th>75%</th>
+      <td>2019.000000</td>
+    </tr>
+    <tr>
+      <th>max</th>
+      <td>2021.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
 
