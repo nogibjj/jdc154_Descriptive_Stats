@@ -5,6 +5,6 @@ pytest-cov==4.0.0 #needed for testing
 black==22.3.0 #formatter
 
 #data and visualizations
-matplotlib == 3.9.2
+matplotlib 
 pandas  == 2.2.2
 

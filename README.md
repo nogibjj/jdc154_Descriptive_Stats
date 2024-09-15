@@ -49,9 +49,9 @@ The purpose of this project is to generate descriptive statistics and look into 
 </div>
 
 ### Visualizations
-![alt text](images/image.png)
+![alt text](images/TV_ratings.png)
 
-![alt text](images/image-1.png)
+![alt text](images/Movie_ratings.png)
 
 ## Note on the repository and directions:
 This project contains:
