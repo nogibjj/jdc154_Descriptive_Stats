@@ -1,4 +1,4 @@
-name: Install
+name: Test
 
 on: #on key is used to specify the events that trigger the workflow
   push: #event type 
