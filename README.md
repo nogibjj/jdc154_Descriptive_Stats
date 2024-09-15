@@ -3,8 +3,7 @@
 ## About the Project
 The purpose of this project is to generate descriptive statistics and look into trends of movie and TV show releases on Netflix over the years. 
 
-### Summary Statistics:
-</style>
+### Summary Statistics of Movie and TV Show Release Years:
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -50,9 +49,9 @@ The purpose of this project is to generate descriptive statistics and look into 
 </div>
 
 ### Visualizations
-![alt text](image.png)
+![alt text](images/image.png)
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 ## Note on the repository and directions:
 This project contains:
