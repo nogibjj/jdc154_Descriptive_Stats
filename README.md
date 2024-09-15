@@ -1,6 +1,8 @@
-# Python Template Overview
+# Netflix Movie and TV Shows Project Overview
 
-Brief overview of template for development environment containing Dockerfile, Makefile, Requirements, and CI/CD (github actions)
+This project contains:
+<li> Requirements.txt </li>
+
 
 [![cicd](https://github.com/nogibjj/jdc154PythonTemplate/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/jdc154PythonTemplate/actions/workflows/hello.yml)
 
