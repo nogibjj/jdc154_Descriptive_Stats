@@ -4,19 +4,6 @@
 The purpose of this project is to generate descriptive statistics and look into trends of movie and TV show releases on Netflix over the years. 
 
 ### Summary Statistics:
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -62,7 +49,10 @@ The purpose of this project is to generate descriptive statistics and look into 
 </table>
 </div>
 
+### Visualizations
+![alt text](image.png)
 
+![alt text](image-1.png)
 
 ## Note on the repository and directions:
 This project contains:
