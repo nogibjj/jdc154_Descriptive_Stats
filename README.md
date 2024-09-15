@@ -59,12 +59,12 @@ The purpose of this project is to generate descriptive statistics and look into 
 This project contains:
 * requirements.txt detailing the requirements needed for this project
 * Makefile to install requirements, lint, format, and test your code
-* github actions and successful CI/CD badges
+* github actions with separate YAML files for Install, Lint, Format, and Test in the github workflows folder
 * DockerFile and devcontainer for environment set up
-* Jupyter notebook performing descriptive statistics & tested with nbval plugin
+* Jupyter notebook performing descriptive statistics 
 * main.py Python script for statistics and generating data visualizations
-* Summary pdf or markdown file
 * test_main.py for Python testing scripts
+* Summary pdf containing the walkthrough and  conclusions found in the data analysis
 
 
 
